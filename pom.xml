@@ -13,6 +13,7 @@
         <module>Amazon</module>
         <module>Facebook</module>
         <module>eBay</module>
+        <module>Citibank</module>
     </modules>
 
     <dependencyManagement>
